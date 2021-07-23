@@ -99,30 +99,30 @@ h2{
     transform: translateX(-50%);
 }
 #photo1{
-    background-image: url(/photos/photo1.jpg);
+    background-image: url(photos/photo1.jpg);
     background-position-x: 88%;
     background-size: cover;
 }
 #photo2{
-    background-image: url(/photos/photo3.png);
+    background-image: url(photos/photo3.png);
     background-position-x: 55%;
     background-size: cover;
 }
 #photo3{
-    background-image: url(/photos/photo5.jpg);
+    background-image: url(photos/photo5.jpg);
     background-position-x: 55%;
     background-size: cover;
 }
 #photo4{
-    background-image: url(/photos/photo7.jpg);
+    background-image: url(photos/photo7.jpg);
     background-position-x: 55%;
     background-size: cover;
 }
 #photo5{
-    background-image: url(/photos/photo1.jpg);
+    background-image: url(photos/photo1.jpg);
 }
 #photo6{
-    background-image: url(/photos/photo1.jpg);   
+    background-image: url(photos/photo1.jpg);   
 }
 @keyframes shadowBlocksRed{
     0%{
